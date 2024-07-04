@@ -1,0 +1,10 @@
+api_key: 'your_api_key'
+base_url: 'https://api.traderepublic.com'
+symbol: 'AAPL'
+interval: '1h'
+short_ma_window: 50
+long_ma_window: 200
+rsi_window: 14
+stop_loss_percentage: 0.02
+take_profit_percentage: 0.05
+position_size: 10
